@@ -2,10 +2,6 @@
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
-<h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
-</h1>
-
 <p align="center">
   <a href="#-sobre-o-podcastr">Sobre o Podcastr</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -40,11 +36,15 @@ Este é um projeto desenvolvido durante à **[Next Level Week](https://nextlevel
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto, desenvolvido pelo Tiago Luchtenberg, através do link abaixo:
+Design desenvolvido na NLW5 pelo [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
 
-- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+Para acessar no Figma: [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
 
 Você precisa ter uma conta [Figma](http://figma.com/) para acessá-lo.
+
+<h1 align="center">
+    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+</h1>
 
 ## 💡 Melhorias na Aplicação V2.0
 
