@@ -13,16 +13,16 @@
 
 <p align="center">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DeboraMSantos/podcastr-next?color=5965E0&labelColor=121214">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deboramsantos/podcastr-next?color=5965E0&labelColor=121214">
+  <img src="https://img.shields.io/github/languages/count/deboraMsantos/podcastr-next?label=languages&color=5965E0&labelColor=121214" alt="GitHub language count">
+  <img src="https://img.shields.io/github/repo-size/deboraMsantos/podcastr-next?label=repo-size&color=5965E0&labelColor=121214" alt="Repository size">
 
   <a href="https://github.com/deboramsantos/podcastr-next/commits/main">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deboramsantos/podcastr-next?color=5965E0&labelColor=121214">
+    <img src="https://img.shields.io/github/last-commit/deboraMsantos/podcastr-next?label=last-commit&color=5965E0&labelColor=121214" alt="GitHub last commit">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=5965E0&labelColor=121214">
-
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  <img src="https://img.shields.io/github/forks/deboraMsantos/podcastr-next?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">
+  <img src="https://img.shields.io/github/stars/deboraMsantos/podcastr-next?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
 <p align="center">
@@ -36,13 +36,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/deboraMsantos/podcastr-next?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/deboraMsantos/podcastr-next?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
-</p>
 
 <br>
 
