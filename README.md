@@ -26,11 +26,13 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Podcastr" src=".github/icon.svg" width="120px">
-</p>
+</p> -->
 
 ## 🎧 Sobre o Podcastr
+
+<img alt="Podcastr" src=".github/icon.svg" width="120px">
 
 [Podcastr](https://dms-podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
 
