@@ -30,7 +30,7 @@
 
 Em desenvolvimento....
 
-[Podcastr](https://dms-podcastr-nlw.vercel.app/) os melhores podcasts de tecnologia estão aqui! 💜
+[Podcastr](https://dms-podcastr.vercel.app/) os melhores podcasts de tecnologia estão aqui! 💜
 
 Este é um projeto desenvolvido durante à **[Next Level Week](https://nextlevelweek.com/)**, apresentado pela **[@Rocketseat](https://github.com/Rocketseat)** durante 19/04/2021 até 25/04/2021.
 
