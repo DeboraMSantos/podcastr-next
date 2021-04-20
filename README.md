@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="github/podcastr-logo.svg" alt="Podcastr logo">
+  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="github/podcastr.svg" />
+    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img alt="Podcastr" src="github/icon.svg" width="120px">
+  <img alt="Podcastr" src=".github/icon.svg" width="120px">
 </p>
 
 ## 🎧 Sobre o Podcastr
