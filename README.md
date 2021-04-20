@@ -1,34 +1,84 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src="github/podcastr-logo.svg" alt="Podcastr logo">
+</div>
 
-## Getting Started
+<h1 align="center">
+    <img alt="Podcastr" title="Podcastr" src="github/podcastr.svg" />
+</h1>
 
-First, run the development server:
+<p align="center">
+  <a href="#-project">Sobre o Podcastr</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<a href="#-license">Licença</a>
+
+</p>
+
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  
+  <img src="https://img.shields.io/github/forks/deboraMsantos/podcastr-next?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">
+
+  <img src="https://img.shields.io/github/stars/deboraMsantos/podcastr-next?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Podcastr" src="github/icon.svg" width="120px">
+</p>
+
+## 🎧 Sobre o Podcastr
+
+[Podcastr](https://dms-podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
+
+Este é um projeto desenvolvido durante à **[Next Level Week](https://nextlevelweek.com/)**, apresentado pela **[@Rocketseat](https://github.com/Rocketseat)** durante 19/04/2021 até 25/04/2021.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto, desenvolvido pelo Tiago Luchtenberg, através do link abaixo:
+
+- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+
+Você precisa ter uma conta [Figma](http://figma.com/) para acessá-lo.
+
+## 🧪 Tecnologias
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 🚀 Getting started
+
+### 🌀 Clonando o repositório
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone este repositório
+$ git clone https://github.com/deboraMsantos/podcastr-next.git
+# Acesse a pasta do projeto no terminal/cmd
+ cd podcastr-next
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### ▶️ Rodando a Aplicação
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Instale as dependências
+$ yarn install ou npm i
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Execute a Aplicação em Desenvolvimento
+$ yarn dev ou npm run dev
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# O servidor iniciará na porta:3000 - acesse http://localhost:3000
+```
 
-## Learn More
+## 📝 Licença
 
-To learn more about Next.js, take a look at the following resources:
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">Desenvolvido com 💜 por 💻🙋‍ Débora Moura dos Santos.<a href="https://www.linkedin.com/in/d%C3%A9bora-moura-dos-santos-57813335/">Acesse aqui o meu Linkedin</a> </p>
