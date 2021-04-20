@@ -1,15 +1,13 @@
-<div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+<p align="center">
+  <img src=".github/podcastr-logo.svg" alt="Podcastr logo" height="120">
 </div>
 
 <p align="center">
   <a href="#-sobre-o-podcastr">Sobre o Podcastr</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  </p>
-  <p align="center">
   <a href="#-como-rodar-este-projeto">Como rodar este projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-license">Licença</a>
+  <a href="#-license">Licença</a>
 
 </p>
 
@@ -30,11 +28,11 @@
 <p align="center">
 
   <a target="_blank" href="https://reactjs.org/">
-    <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
+    <img alt="ReactJS" src="https://img.shields.io/static/v1?color=5965E0&label=React&message=JS&?style=plastic&logo=React">
   </a>
 
   <a target="_blank" href="https://nextjs.org/">
-      <img alt="NextJS" src="https://img.shields.io/static/v1?color=white&label=Next&message=JS&?style=plastic&logo=Next.js">
+      <img alt="NextJS" src="https://img.shields.io/static/v1?color=5965E0&label=Next&message=JS&?style=plastic&logo=Next.js">
   </a>
 </p>
 
