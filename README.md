@@ -18,7 +18,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/deboramsantos/podcastr-next?color=5965E0&labelColor=121214">
 
   <a href="https://github.com/deboramsantos/podcastr-next/commits/main">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deboramsantos/podcastr-next?color=5965E0&labelColor=121214">
+    <img src="https://img.shields.io/github/last-commit/deboraMsantos/podcastr-next?label=last-commit&color=5965E0&labelColor=121214" alt="GitHub last commit">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=5965E0&labelColor=121214">
