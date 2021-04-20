@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/icon.svg" alt="Podcastr logo">
+  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 <p align="center">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DeboraMSantos/podcastr-next?color=5965E0">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DeboraMSantos/podcastr-next?color=5965E0&labelColor=121214">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deboramsantos/podcastr-next?color=5965E0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deboramsantos/podcastr-next?color=5965E0&labelColor=121214">
 
   <a href="https://github.com/deboramsantos/podcastr-next/commits/master">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deboramsantos/podcastr-next?color=5965E0">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deboramsantos/podcastr-next?color=5965E0&labelColor=121214">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=5965E0">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=5965E0&labelColor=121214">
 
 </p>
 
@@ -47,10 +47,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Podcastr" src=".github/podcastr-logo.svg" width="120px">
-</p>
 
 ## 🎧 Sobre o Podcastr
 
