@@ -7,7 +7,7 @@
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar-este-projeto">Como rodar este projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>
+  <a href="#-licença">Licença</a>
 
 </p>
 
@@ -85,6 +85,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 # Clone este repositório
 $ git clone https://github.com/deboraMsantos/podcastr-next.git
+
 # Acesse a pasta do projeto no terminal/cmd
  cd podcastr-next
 ```
