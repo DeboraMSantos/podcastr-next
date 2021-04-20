@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-  <a href="#-project">Sobre o Podcastr</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-podcastr">Sobre o Podcastr</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodar">Como rodar este projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-rodar-este-projeto">Como rodar este projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 <a href="#-license">Licença</a>
 
@@ -26,19 +26,19 @@
 
 <br>
 
-<!-- <p align="center">
-  <img alt="Podcastr" src=".github/icon.svg" width="120px">
-</p> -->
+<p align="center">
+  <img alt="Podcastr" src=".github/podcastr-logo.svg" width="120px">
+</p>
 
 ## 🎧 Sobre o Podcastr
 
-<img alt="Podcastr" src=".github/icon.svg" width="120px">
+Em desenvolvimento....
 
-[Podcastr](https://dms-podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
+[Podcastr](https://dms-podcastr-nlw.vercel.app/) os melhores podcasts de tecnologia estão aqui! 💜
 
 Este é um projeto desenvolvido durante à **[Next Level Week](https://nextlevelweek.com/)**, apresentado pela **[@Rocketseat](https://github.com/Rocketseat)** durante 19/04/2021 até 25/04/2021.
 
-## 🔖 Layout
+## 🎨 Layout
 
 Você pode visualizar o layout do projeto, desenvolvido pelo Tiago Luchtenberg, através do link abaixo:
 
@@ -46,7 +46,11 @@ Você pode visualizar o layout do projeto, desenvolvido pelo Tiago Luchtenberg, 
 
 Você precisa ter uma conta [Figma](http://figma.com/) para acessá-lo.
 
-## 🧪 Tecnologias
+## 💡 Melhorias na Aplicação V2.0
+
+Ainda nenhuma
+
+## 💻 Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
