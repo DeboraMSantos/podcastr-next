@@ -15,15 +15,15 @@
 
 <p align="center">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DeboraMSantos/podcastr-next">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DeboraMSantos/podcastr-next?color=5965E0">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deboramsantos/podcastr-next">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deboramsantos/podcastr-next?color=5965E0">
 
   <a href="https://github.com/deboramsantos/podcastr-next/commits/master">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deboramsantos/podcastr-next?color=blue">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deboramsantos/podcastr-next?color=5965E0">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=5965E0">
 
 </p>
 
