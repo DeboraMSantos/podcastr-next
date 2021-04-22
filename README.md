@@ -36,8 +36,6 @@
   </a>
 </p>
 
-
-
 <br>
 
 ## 🎧 Sobre o Podcastr
@@ -94,6 +92,11 @@ $ yarn install ou npm i
 $ yarn dev ou npm run dev
 
 # O servidor iniciará na porta:3000 - acesse http://localhost:3000
+
+# Execute a API em Desenvolvimento
+$ yarn server ou npm server
+
+# O servidor iniciará na porta:3333 - acesse http://localhost:3333
 ```
 
 ## 📝 Licença
