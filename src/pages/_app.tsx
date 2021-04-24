@@ -3,7 +3,7 @@ import '../styles/global.scss';
 import { useState } from 'react';
 import { Header } from '../components/Header';
 import { Player } from '../components/Player';
-import { PlayerContext, PlayerContextProvider } from '../contexts/PlayerContext';
+import { PlayerContextProvider } from '../contexts/PlayerContext';
 
 import styles from '../styles/app.module.scss';
 
