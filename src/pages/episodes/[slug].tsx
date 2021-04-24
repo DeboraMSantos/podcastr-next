@@ -69,7 +69,7 @@ export default function Episode({ episode }: EpisodeProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const { data } = await api.get('episodes', {
+  const { data } = await api.get('/episodes/', {
     params: {
       _limit: 2,
       _sort: "published_at",
@@ -86,9 +86,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   })
 
   return {
-    paths: [{ // ex em um ecommerce pode buscar os paths de categorias mais acessadas e produtos mais acessados e fazer os path.
-      params: { slug: '' }
-    }],
+    paths,
     fallback: 'blocking' // implementa enquanto for acessando, melhor opção a se usar para SEO
   }
 }

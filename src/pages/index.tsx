@@ -121,7 +121,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
 
 //SSG - Static Site Generation (para carregar poucas vezes ao dia e não a todo momento)
 export const getStaticProps: GetStaticProps = async () => {
-  const { data } = await api.get('episodes', {
+  const { data } = await api.get('/episodes', {
     params: {
       _limit: 12,
       _sort: "published_at",
